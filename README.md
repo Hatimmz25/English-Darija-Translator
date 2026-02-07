@@ -15,7 +15,7 @@
 
 Watch the complete project presentation, including technical demo and code walkthrough:
 
-👉 **[Watch Full Presentation (Google Drive)]()**
+👉 **[Watch Full Presentation (Google Drive)](https://drive.google.com/file/d/1b_-O95L_0y5LHNfCJUmOW5GqREDVSWld/view?usp=sharing)**
 
 
 ---
